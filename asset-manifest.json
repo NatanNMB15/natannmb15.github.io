@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "natannmb15.github.io/static/js/main.020b939f.chunk.js",
+    "runtime-main.js": "natannmb15.github.io/static/js/runtime-main.d1b81d44.js",
+    "static/js/2.82a0fc8e.chunk.js": "natannmb15.github.io/static/js/2.82a0fc8e.chunk.js",
+    "index.html": "natannmb15.github.io/index.html",
+    "precache-manifest.5071b2b91c384303988ff6c31371e4ee.js": "natannmb15.github.io/precache-manifest.5071b2b91c384303988ff6c31371e4ee.js",
+    "service-worker.js": "natannmb15.github.io/service-worker.js",
+    "static/js/2.82a0fc8e.chunk.js.LICENSE.txt": "natannmb15.github.io/static/js/2.82a0fc8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1b81d44.js",
+    "static/js/2.82a0fc8e.chunk.js",
+    "static/js/main.020b939f.chunk.js"
+  ]
+}
