@@ -252,13 +252,10 @@ export default function Index() {
             <ul className="fa-ul mb-0">
               <li>
                 <i className="fa-li fa fa-trophy text-warning"></i>
-                <span>
-                  Google Cloud Platform Fundamentals: Core Infrastructure -
-                  Coursera
-                </span>
+                <span>Cloud Engineering with Google Cloud - Coursera</span>
                 <br />
                 <a
-                  href="https://coursera.org/verify/BCBPVE2QDPHH"
+                  href="https://coursera.org/verify/professional-cert/HXRYT2XZTL78"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                 >
