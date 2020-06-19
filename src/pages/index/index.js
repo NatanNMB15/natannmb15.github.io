@@ -232,7 +232,7 @@ export default function Index() {
               mostrando os casos que necessitam de ajuda.
             </p>
             <a
-              href="https://be-the-hero-275300.rj.r.appspot.com/"
+              href="https://be-the-hero-275300.web.app/"
               target="_blank"
               rel="noopener noreferrer nofollow"
             >
