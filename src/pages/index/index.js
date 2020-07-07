@@ -83,9 +83,10 @@ export default function Index() {
               </a>
             </div>
             <p className="lead mb-5 text-justify">
-              Bacharel em sistemas de informação, motivado a obter conhecimentos
-              na área da tecnologia da informação, desenvolvendo soluções na
-              área, e progredir profissionalmente.
+              Analista de negócios em tecnologia da informação e bacharel em
+              sistemas de informação, motivado a obter conhecimentos na área da
+              tecnologia da informação, desenvolvendo soluções na área, e
+              progredir profissionalmente.
             </p>
             <div className="social-icons">
               <a
@@ -114,6 +115,22 @@ export default function Index() {
         >
           <div className="w-100">
             <h2 className="mb-5">Experiência</h2>
+
+            <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+              <div className="resume-content">
+                <h3 className="mb-0">Analista de negócios em TI</h3>
+                <div className="subheading mb-3">SENAI PR</div>
+                <p className="text-justify">
+                  Desenvolvedor de Software, JavaServer Faces (JSF) e Mobile
+                  (React Native).
+                </p>
+              </div>
+              <div className="resume-date text-md-right">
+                <span className="text-primary">
+                  Julho de 2020 - Até o momento
+                </span>
+              </div>
+            </div>
 
             <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
               <div className="resume-content">
