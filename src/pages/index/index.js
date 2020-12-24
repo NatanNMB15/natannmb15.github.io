@@ -83,10 +83,10 @@ export default function Index() {
               </a>
             </div>
             <p className="lead mb-5 text-justify">
-              Analista de negócios em tecnologia da informação e bacharel em
-              sistemas de informação, motivado a obter conhecimentos na área da
-              tecnologia da informação, desenvolvendo soluções na área, e
-              progredir profissionalmente.
+              Analista de tecnologia da informação e bacharel em sistemas de
+              informação, motivado a obter conhecimentos na área da tecnologia
+              da informação, desenvolvendo soluções na área, e progredir
+              profissionalmente.
             </p>
             <div className="social-icons">
               <a
@@ -121,8 +121,7 @@ export default function Index() {
                 <h3 className="mb-0">Analista de negócios em TI</h3>
                 <div className="subheading mb-3">SENAI PR</div>
                 <p className="text-justify">
-                  Desenvolvedor de Software, JavaServer Faces (JSF) e Mobile
-                  (React Native).
+                  Desenvolvedor de Software, Java Web e Mobile (React Native).
                 </p>
               </div>
               <div className="resume-date text-md-right">
@@ -171,6 +170,19 @@ export default function Index() {
               </div>
               <div className="resume-date text-md-right">
                 <span className="text-primary">2016 - 2019</span>
+              </div>
+            </div>
+            <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+              <div className="resume-content">
+                <h3 className="mb-0">
+                  Universidade Tecnológica Federal do Paraná (UTFPR)
+                </h3>
+                <div className="subheading mb-3">
+                  MBA em Engenharia de Software
+                </div>
+              </div>
+              <div className="resume-date text-md-right">
+                <span className="text-primary">2021</span>
               </div>
             </div>
           </div>
