@@ -273,7 +273,9 @@ export default function Index() {
             <ul className="fa-ul mb-0">
               <li>
                 <i className="fa-li fa fa-trophy text-warning"></i>
-                <span>Oracle Certified Foundations Associate, Java</span>
+                <span>
+                  Oracle Certified Foundations Associate, Java - Oracle
+                </span>
                 <br />
                 <a
                   href="https://www.credly.com/badges/db7fed0e-58de-4a9b-b455-80addb8165c9?source=linked_in_profile"
@@ -285,10 +287,26 @@ export default function Index() {
               </li>
               <li>
                 <i className="fa-li fa fa-trophy text-warning"></i>
-                <span>Cloud Engineering with Google Cloud - Coursera</span>
+                <span>
+                  Remote Work and Virtual Collaboration (RWVCPC) - CertiProf
+                </span>
                 <br />
                 <a
-                  href="https://coursera.org/verify/professional-cert/HXRYT2XZTL78"
+                  href="https://certificates.easy-lms.com/exam/session/88dc557a-507c-4adf-aa7c-5964656668c9"
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                >
+                  Ver certificado
+                </a>
+              </li>
+              <li>
+                <i className="fa-li fa fa-trophy text-warning"></i>
+                <span>
+                  Scrum Foundation Professional Certificate (SPFC) - CertiProf
+                </span>
+                <br />
+                <a
+                  href="https://certificates.easy-lms.com/exam/session/1280421c-ae02-4722-bd95-827319520dc8"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                 >
