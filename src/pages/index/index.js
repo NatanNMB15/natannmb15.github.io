@@ -121,7 +121,8 @@ export default function Index() {
                 <h3 className="mb-0">Analista de negócios em TI</h3>
                 <div className="subheading mb-3">SENAI PR</div>
                 <p className="text-justify">
-                  Desenvolvedor de Software, Java Web e Mobile (React Native).
+                  Desenvolvedor Java 8 EE para Web, e Mobile utilizando React
+                  Native.
                 </p>
               </div>
               <div className="resume-date text-md-right">
@@ -202,10 +203,7 @@ export default function Index() {
             </div>
             <ul className="list-inline dev-icons">
               <li className="list-inline-item">
-                <i className="fab fa-html5"></i>
-              </li>
-              <li className="list-inline-item">
-                <i className="fab fa-css3-alt"></i>
+                <i className="fab fa-java"></i>
               </li>
               <li className="list-inline-item">
                 <i className="fab fa-js-square"></i>
@@ -215,12 +213,6 @@ export default function Index() {
               </li>
               <li className="list-inline-item">
                 <i className="fab fa-node-js"></i>
-              </li>
-              <li className="list-inline-item">
-                <i className="fab fa-sass"></i>
-              </li>
-              <li className="list-inline-item">
-                <i className="fab fa-less"></i>
               </li>
               <li className="list-inline-item">
                 <i className="fab fa-python"></i>
@@ -279,6 +271,18 @@ export default function Index() {
           <div className="w-100">
             <h2 className="mb-5">Certificados</h2>
             <ul className="fa-ul mb-0">
+              <li>
+                <i className="fa-li fa fa-trophy text-warning"></i>
+                <span>Oracle Certified Foundations Associate, Java</span>
+                <br />
+                <a
+                  href="https://www.credly.com/badges/db7fed0e-58de-4a9b-b455-80addb8165c9?source=linked_in_profile"
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                >
+                  Ver certificado
+                </a>
+              </li>
               <li>
                 <i className="fa-li fa fa-trophy text-warning"></i>
                 <span>Cloud Engineering with Google Cloud - Coursera</span>
