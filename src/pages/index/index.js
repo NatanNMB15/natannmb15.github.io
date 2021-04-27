@@ -274,6 +274,20 @@ export default function Index() {
               <li>
                 <i className="fa-li fa fa-trophy text-warning"></i>
                 <span>
+                  Oracle Certified Professional, Java SE 11 Developer – Oracle
+                </span>
+                <br />
+                <a
+                  href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B65CF0E0DD697FB7E7D084A09A5512550BFC9D596B4ABAEB70F6F22A8CFDC6CE"
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                >
+                  Ver certificado
+                </a>
+              </li>
+              <li>
+                <i className="fa-li fa fa-trophy text-warning"></i>
+                <span>
                   Oracle Certified Foundations Associate, Java - Oracle
                 </span>
                 <br />
@@ -321,32 +335,6 @@ export default function Index() {
                 <br />
                 <a
                   href="https://www.efset.org/cert/f7wmLT"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                >
-                  Ver certificado
-                </a>
-              </li>
-              <li>
-                <i className="fa-li fa fa-trophy text-warning"></i>
-                <span>Curso desenvolvimento Web em Django - Udemy</span>
-                <br />
-                <a
-                  href="https://ude.my/UC-Q5QS112H"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                >
-                  Ver certificado
-                </a>
-              </li>
-              <li>
-                <i className="fa-li fa fa-trophy text-warning"></i>
-                <span>
-                  Java Programming Masterclass for Software Developers - Udemy
-                </span>
-                <br />
-                <a
-                  href="https://ude.my/UC-L1D303R0"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                 >
