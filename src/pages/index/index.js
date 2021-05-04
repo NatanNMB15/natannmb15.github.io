@@ -278,7 +278,7 @@ export default function Index() {
                 </span>
                 <br />
                 <a
-                  href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B65CF0E0DD697FB7E7D084A09A5512550BFC9D596B4ABAEB70F6F22A8CFDC6CE"
+                  href="https://www.credly.com/badges/4654bbec-aa40-4cf1-8ce8-04ad968261b1/public_url"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                 >
@@ -292,7 +292,7 @@ export default function Index() {
                 </span>
                 <br />
                 <a
-                  href="https://www.credly.com/badges/db7fed0e-58de-4a9b-b455-80addb8165c9?source=linked_in_profile"
+                  href="https://www.credly.com/badges/db7fed0e-58de-4a9b-b455-80addb8165c9/public_url"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                 >
